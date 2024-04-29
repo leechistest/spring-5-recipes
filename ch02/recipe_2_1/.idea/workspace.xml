@@ -4,55 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75e15206-3e73-4929-a9b1-4cea08c6e97a" name="Changes" comment="2_1 환경설정">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/apress/springrecipes/sequence/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/apress/springrecipes/sequence/Sequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/apress/springrecipes/sequence/SequenceDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/apress/springrecipes/sequence/SequenceDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/apress/springrecipes/sequence/SequenceGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/apress/springrecipes/sequence/config/SequenceGeneratorConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/distributions/recipe_2_1_i.tar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/distributions/recipe_2_1_i.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/libs/recipe_2_1_i-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scripts/recipe_2_1_i" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/scripts/recipe_2_1_i.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/apress/springrecipes/sequence/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/apress/springrecipes/sequence/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/apress/springrecipes/sequence/SequenceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/apress/springrecipes/sequence/SequenceDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/apress/springrecipes/sequence/SequenceGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/apress/springrecipes/sequence/config/SequenceGeneratorConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recipe_2_1_i/src/main/java/com/apress/springrecipes/sequence/Main.java" beforeDir="false" />
+    <list default="true" id="cb3fb38e-9f16-432c-bbb1-ceb0eea235e9" name="Changes" comment="2_1 자바로 POJO 구성하기 완료">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,57 +45,15 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/../.." value="main" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-    <option name="RESET_MODE" value="MIXED" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2fkwsvlwCk6qNfUR5fO8uLFBb2A" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Debug",
-    "Gradle.Build recipe_2_1_i.executor": "Run",
-    "Gradle.recipe_2_1_i [:Main.main()].executor": "Run",
-    "Gradle.recipe_2_1_i [build].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Gradle.recipe_2_1 [:Main.main()].executor": "Run",
     "git-widget-placeholder": "ch02",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/leechis/workspace/spring-5-recipes/ch02/recipe_2_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+    "last_opened_file_path": "/home/leechis/workspace/spring-5-recipes/ch02/recipe_2_2",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RunManager">
@@ -175,82 +89,11 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-temurin-1.8.0_402-4caba194b151-559bc248" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="75e15206-3e73-4929-a9b1-4cea08c6e97a" name="Changes" comment="" />
-      <created>1714358594059</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1714358594059</updated>
-      <workItem from="1714358595060" duration="1499000" />
-      <workItem from="1714360129310" duration="240000" />
-      <workItem from="1714360739540" duration="814000" />
-      <workItem from="1714361588020" duration="1675000" />
-      <workItem from="1714363768022" duration="212000" />
-      <workItem from="1714364025265" duration="5376000" />
-      <workItem from="1714370609839" duration="1000" />
-    </task>
-    <task id="LOCAL-00001" summary="2_1 환경설정">
-      <option name="closed" value="true" />
-      <created>1714360233509</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1714360233509</updated>
-    </task>
-    <task id="LOCAL-00002" summary=".">
-      <option name="closed" value="true" />
-      <created>1714361246397</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1714361246397</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2_1 환경설정">
-      <option name="closed" value="true" />
-      <created>1714362118987</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1714362118987</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2_1 환경설정">
-      <option name="closed" value="true" />
-      <created>1714363658250</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1714363658250</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="." />
-    <MESSAGE value="2_1 환경설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="2_1 환경설정" />
+    <MESSAGE value="2_1 자바로 POJO 구성하기 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="2_1 자바로 POJO 구성하기 완료" />
   </component>
 </project>
